@@ -431,7 +431,7 @@ a:focus {
   font-family: 'Coming Soon', cursive;
 }
 
-.about_section .detail-box a {
+.about_section .detail-box .B1 {
   margin-top: 15px;
   display: inline-block;
   font-family: 'Merriweather Sans', sans-serif;
