@@ -572,10 +572,10 @@ a:focus {
   color: #ffffff;
 }
 
-.service_section .box:hover .img-box img {
+/*.service_section .box:hover .img-box img {
   -webkit-filter: brightness(0) invert(1);
           filter: brightness(0) invert(1);
-}
+}*/
 
 .service_section .btn-box {
   display: -webkit-box;
