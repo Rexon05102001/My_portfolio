@@ -165,8 +165,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler {
-  padding: 0;
-  width: 37px;
+  padding-right: 22px;
   height: 42px;
   -webkit-transition: all .3s;
   transition: all .3s;
@@ -281,7 +280,6 @@ a:focus {
           align-items: center;
   background-size: cover;
   background-position: bottom;
-  height: 850px;
 }
 
 .slider_section .row {
@@ -459,9 +457,8 @@ a:focus {
 .about_section .img-box1 img {
   border-radius: 100px;
   position: relative;
-  left: 100px;
-  width: 78%;
-  height: 800px;
+  left: 15px;
+  width: 88%;
 }
 
 .professional_section {
